@@ -1,5 +1,5 @@
 # Sean Murphy
-Student - **Business Analytics & Information Systems**
+**B.B.A., Business Analytics & Information Systems '22** - University of Iowa, Tippie College of Business
 
 
 Thank you for visiting my GitHub profile! I enjoy working with all types of data spanning different fields and subject areas. Follow along and view my projects as I continue to build this portfolio and my skills!
